@@ -1,7 +1,7 @@
 addons:
   sonarcloud:
     organization: "marrcolino"
-    token:
+    token: "marrcolino_TeamUp"
       secure: "**************************" # encrypted value of your token
 
 script:
