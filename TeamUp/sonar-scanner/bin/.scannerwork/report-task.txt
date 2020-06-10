@@ -1,0 +1,7 @@
+organization=marrcolino
+projectKey=marrcolino_TeamUp
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8580
+dashboardUrl=https://sonarcloud.io/dashboard?id=marrcolino_TeamUp
+ceTaskId=AXKexcgLK8Vt9zxf7gcE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXKexcgLK8Vt9zxf7gcE
